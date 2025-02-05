@@ -17,23 +17,7 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 - 6ª Edição do SQL Week Recife Conference – LS Treinamentos
   #
 
-🛠️ Atualmente estou trabalhando em um projeto de desenvolvimento de um banco de dados de operações logísticas.
-
-📚 Estou estudando SQL Server e Power BI aplicados a análise de dados aplicada à Logística.
-
-👨‍💻 Pretendo colaborar em projetos de desenvolvimento de banco de dados.
-
-<div> 
-  <a href="https://www.linkedin.com/in/rosbergalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 	<a href="https://medium.com/@rosbergalvess" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rosbergalvess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-## 📌 **Projetos em Destaque**
-🔹 [Banco de Dados - db_Faculdade](https://github.com/rosbergalves/db_Faculdade)
-
-## 📊 **Estatísticas do GitHub**
+  ## 📊 **Estatísticas do GitHub**
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=github_dark" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=github_dark" />
@@ -50,3 +34,23 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 <img align="center" alt="css3" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="html5" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </div>
+
+#
+
+🛠️ Atualmente estou trabalhando em um projeto de desenvolvimento de um banco de dados de operações logísticas.
+
+📚 Estou estudando SQL Server e Power BI aplicados a análise de dados aplicada à Logística.
+
+👨‍💻 Pretendo colaborar em projetos de desenvolvimento de banco de dados.
+
+<div> 
+  <a href="https://www.linkedin.com/in/rosbergalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://medium.com/@rosbergalvess" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rosbergalvess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+## 📌 **Projetos em Destaque**
+🔹 [Banco de Dados - db_Faculdade](https://github.com/rosbergalves/db_Faculdade)
+
+
