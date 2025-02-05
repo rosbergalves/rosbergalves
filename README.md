@@ -13,8 +13,8 @@
 
 ## 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=github_dark" />
 </div>
 
 ## 🚀 **Tech Stack & Ferramentas**
