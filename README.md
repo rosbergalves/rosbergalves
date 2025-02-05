@@ -11,7 +11,9 @@
   <a href = "mailto:rosbergalvess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-# 📊 GitHub Stats
-![Rosberg Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=dark)
+## 📊 **Estatísticas do GitHub**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=radical" />
+</div>
 
