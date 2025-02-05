@@ -29,5 +29,4 @@
 <img align="center" alt="html5" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" alt="git" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="center" alt="github" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="center" alt="Rafa-sqlsever" height="70" width="70" src="">
 </div>
