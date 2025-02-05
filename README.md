@@ -20,5 +20,14 @@
 ## 🚀 **Tech Stack & Ferramentas**
 🛠 Tecnologias e ferramentas que estou estudando e utilizando:
 <div align="center">
-<img align="center" alt="Rafa-sqlsever" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlservern/sqlserver-original.svg">
-  </div>
+<img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="sqlsever" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+<img align="center" alt="vscode" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+<img align="center" alt="git" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="github" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" alt="css3" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="center" alt="html5" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center" alt="git" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="github" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" alt="Rafa-sqlsever" height="70" width="70" src="">
+</div>
