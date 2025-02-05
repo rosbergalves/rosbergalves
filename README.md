@@ -13,7 +13,12 @@
 
 ## 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosbergalves&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosbergalves&layout=compact&theme=tokyonight" />
 </div>
 
+## 🚀 **Tech Stack & Ferramentas**
+🛠 Tecnologias e ferramentas que estou estudando e utilizando:
+<div align="center">
+<img align="center" alt="Rafa-sqlsever" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlservern/sqlserver-original.svg">
+  </div>
