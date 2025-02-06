@@ -16,7 +16,7 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 - 3ª Edição do Recife Data Saturday 2024 – LS Treinamentos
 - 6ª Edição do SQL Week Recife Conference – LS Treinamentos
 
-<br><br>
+&nbsp;
 
 🛠️ No momento estou trabalhando em um projeto de desenvolvimento de um banco de dados para operações logísticas de um marketplace.
 
