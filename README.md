@@ -24,7 +24,9 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 
 👨‍💻 Pretendo colaborar em projetos de desenvolvimento de banco de dados.
 
+## 🔗 Links
 <div>
+  <a href="https://rosbergalves.github.io/Projeto-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rosbergalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href="https://medium.com/@rosbergalvess" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
