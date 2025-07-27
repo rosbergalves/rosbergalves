@@ -47,6 +47,7 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 ## 💻 **Tech Stack & Ferramentas**
 🛠 Tecnologias e ferramentas que estou estudando e utilizando:
 <div>
+<img align="center" alt="excel" height="70" width="70" src="[https://github.com/rosbergalves/Projeto-Portfolio/blob/main/Imagens/icons8-microsoft-excel-2019.svg](https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg)">
 <img align="center" alt="excel" height="70" width="70" src="https://github.com/rosbergalves/Projeto-Portfolio/blob/main/Imagens/icons8-microsoft-excel-2019.svg">
 <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="sqlsever" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
