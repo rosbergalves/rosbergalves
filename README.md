@@ -6,6 +6,7 @@ Com o conhecimento adquirido em minha jornada, desenvolvi um perfil analítico e
 
 Atualmente estou em projeção de carreira para área de dados, passando por uma trilha de aprendizagem onde sigo em formação técnica com cursos e workshops como:
 
+- Power BI – Udemy
 - Banco de Dados e SQL – Udemy
 - SQL Server – Bóson Treinamentos
 - Modelagem de Dados – Bóson Treinamentos
