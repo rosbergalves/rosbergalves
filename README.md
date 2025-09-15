@@ -62,6 +62,9 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 &nbsp;
 
 ## 🗂️ **Projetos em Destaque**
+
+🔹 [Dashboard - Gestão de Manutenção](https://github.com/rosbergalves/gestaomanutencao_dashboard)
+
 🔹 [Banco de Dados - db_Faculdade](https://github.com/rosbergalves/db_Faculdade)
 
 
