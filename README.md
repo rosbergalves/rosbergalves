@@ -51,7 +51,7 @@ Atualmente estou em projeção de carreira para área de dados, passando por uma
 <img align="center" alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="excel" height="50" width="50" src="https://github.com/rosbergalves/Projeto-Portfolio/blob/main/Imagens/icons8-microsoft-excel-2019.svg">
 <img align="center" alt="sqlsever" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-<img align="center" alt="github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" alt="github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
 <img align="center" alt="html5" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" alt="css3" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
